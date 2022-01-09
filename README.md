@@ -1,1 +1,5 @@
 # Data-Science-project-1
+This is my first Data science Project, wherein I have described the dataset.
+This is a standard data set of A World Heritage Site is a landmark or area with legal protection by an international convention administered by the United Nations Educational, Scientific, and Cultural Organization (UNESCO). World Heritage Sites are designated by UNESCO for having cultural, historical, scientific, or another form of significance. The sites are judged to contain "cultural and natural heritage around the world considered to be of outstanding value to humanity.
+To be selected, a World Heritage Site must be a somehow unique landmark that is geographically and historically identifiable and has special cultural or physical significance. For example, World Heritage Sites might be ancient ruins or historical structures, buildings, cities, deserts, forests, islands, lakes, monuments, mountains, or wilderness areas.
+Short manipulating codes are written for Understanding the dataset.
